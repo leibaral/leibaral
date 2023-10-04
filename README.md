@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **leibaral@gmail.com**
 
-- 🤡 Less serious **Sorry, I'm a fucking serious engineer 😌**
+- 🤡 Less serious? **...sorry, I'm a fucking serious engineer 😌**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
