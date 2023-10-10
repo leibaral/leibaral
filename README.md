@@ -4,7 +4,7 @@
 <h1 align="center">¡Hola! 🤙 it's Joan Carles here</h1>
 <h3 align="center">A happy 🔙🔚 developer trainee now</h3>
 
-- 🔭 I’m currently working on **IT Academy**
+- 🔭 I’m currently working on an **IT Academy Project**
 
 - 🌱 I’m currently learning **SpringBoot**
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **leibaral@gmail.com**
 
-- 🤡 ...less serious stuff? **oh sorry, I'm just a fucking serious engineer 😌**
+- 🤡 ...less serious stuff? **  oh sorry, I'm just another fucking serious engineer 😌**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
