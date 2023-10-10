@@ -1,4 +1,5 @@
-![Banner GitHub](https://github.com/leibaral/leibaral/assets/57914114/b26e9940-2c3f-43d7-9c0a-81425555f550)
+![Banner GitHub EN](https://github.com/leibaral/leibaral/assets/57914114/2e738cb5-369b-475b-b632-4bd3ca7ffd82)
+
 
 <h1 align="center">¡Hola! 🤙 it's Joan Carles here</h1>
 <h3 align="center">A happy 🔙🔚 developer trainee now</h3>
