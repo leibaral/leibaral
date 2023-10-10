@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **leibaral@gmail.com**
 
-- 🤡 ...less serious stuff? **  oh sorry, I'm just another fucking serious engineer 😌**
+- 🤡 Less serious stuff   **oh sorry, I'm just another fucking serious engineer** 😌
 
 <h3 align="left">More in depth:</h3>
 <p align="left">
