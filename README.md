@@ -1,7 +1,12 @@
 ![Banner GitHub EN](https://github.com/leibaral/leibaral/assets/57914114/2e738cb5-369b-475b-b632-4bd3ca7ffd82)
 
 
-<h1 align="center">¡Hola! 🤙 it's [Joan Carles](/leibaral/JCspelling.mp3) here</h1>
+<h1 align="center">¡Hola! 🤙 it's 
+  <audio controls>
+    <source src="leibaral/JCspelling.mp3" type="audio/mp3">
+    Joan Carles
+  </audio> 
+  here</h1>
 <h3 align="center">A happy Java🔙🔚 developer trainee now</h3>
 
 - 👯 Looking for an opportunity to contribute to fix problems and meeting customer's needs 
