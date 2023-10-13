@@ -9,14 +9,15 @@
   here</h1>
 <h3 align="center">A happy Java🔙🔚 developer trainee now</h3>
 
-- 👯 Looking for an opportunity to contribute to fix problems and meeting customer's needs 
+<p align="center">
+👯 Looking for an opportunity to contribute to fix problems and meeting customer's needs 
 
-- 🌱 I’m currently learning **SpringBoot: JPA, JWT, Sprint Security & Testing**
+🌱 I’m currently learning **SpringBoot: JPA, JWT, Sprint Security & Testing**
 
-- 🤡 Less serious stuff :  **...oh sorry, I'm just another f... serious engineer** 😅
+🤡 Less serious stuff :  **...oh sorry, I'm just another f... serious engineer** 😅
 
-- 📫 How to reach me by email **leibaral@gmail.com**
-
+📫 How to reach me by email **leibaral@gmail.com**
+</p>
 
 
 <h3 align="center">More in depth:</h3>
