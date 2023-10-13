@@ -1,18 +1,18 @@
 ![Banner GitHub EN](https://github.com/leibaral/leibaral/assets/57914114/2e738cb5-369b-475b-b632-4bd3ca7ffd82)
 
 
-<h1 align="center">¡Hola! 🤙 it's Joan Carles here</h1>
-<h3 align="center">A happy 🔙🔚 developer trainee now</h3>
+<h1 align="center">¡Hola! 🤙 it's [Joan Carles](/leibaral/JCspelling.mp3) here</h1>
+<h3 align="center">A happy Java🔙🔚 developer trainee now</h3>
 
-- 🔭 I’m currently working on an **IT Academy Project**
+- 👯 Looking for an opportunity to contribute to fix problems and meeting customer's needs 
 
-- 🌱 I’m currently learning **SpringBoot**
+- 🌱 I’m currently learning **SpringBoot: JPA, JWT, Sprint Security & Testing**
 
-- 👯 I’m looking to collaborate on **Java projects**
+- 🤡 Less serious stuff :  **...oh sorry, I'm just another f... serious engineer** 😅
 
-- 📫 How to reach me **leibaral@gmail.com**
+- 📫 How to reach me by email **leibaral@gmail.com**
 
-- 🤡 Less serious stuff :  **...oh sorry, I'm just another f... serious engineer** 😌
+
 
 <h3 align="left">More in depth:</h3>
 <p align="left">
