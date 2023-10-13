@@ -3,7 +3,7 @@
 
 <h1 align="center">¡Hola! 🤙 it's 
   <audio controls>
-    <source src="leibaral/JCspelling.mp3" type="audio/mp3">
+    <source src="JCspelling.mp3" type="audio/mp3">
     Joan Carles
   </audio> 
   here</h1>
