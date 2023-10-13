@@ -10,6 +10,7 @@
 <h3 align="center">A happy Java🔙🔚 developer trainee now</h3>
 
 <div align="center">
+  
 👯 Looking for an opportunity to contribute to fix problems and meeting customer's needs 
 
 🌱 I’m currently learning **SpringBoot: JPA, JWT, Sprint Security & Testing**
@@ -17,6 +18,7 @@
 🤡 Less serious stuff :  **...oh sorry, I'm just another f... serious engineer** 😅
 
 📫 How to reach me by email **leibaral@gmail.com**
+
 </div>
 
 
