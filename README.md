@@ -7,7 +7,8 @@
 
 
 <div align="center">
-👯 Looking for an opportunity to contribute to fix problems and meeting customer's needs 
+  
+👯 Looking for an opportunity to contribute to fix problems and meeting customer's needs  
 
 🌱 I’m currently learning **SpringBoot: JPA, JWT, Sprint Security & Testing**
 
