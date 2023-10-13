@@ -1,8 +1,9 @@
-![Banner GitHub EN](https://github.com/leibaral/leibaral/assets/57914114/2e738cb5-369b-475b-b632-4bd3ca7ffd82)
+![Banner GitHub](https://github.com/leibaral/leibaral/assets/57914114/5f6641e1-bb83-4351-9a4e-d55908685695)
 
 
-<h1 align="center">🤙 ¡Hola! it's Joan Carles here 🤙</h1>
-<h3 align="center">A happy Java🔙🔚 developer trainee now</h3>
+
+<h3 align="center">A happy Java🔙🔚 developer trainee  
+</h3>
 
 
 <div align="center">
