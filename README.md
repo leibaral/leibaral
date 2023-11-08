@@ -14,14 +14,14 @@
 
 🤡 Less serious stuff :  **...oh sorry, I'm just another f... serious engineer** 😅
 
-📫 How to reach me by email **leibaral@gmail.com**  
+📫 How to reach me by email:  **leibaral@gmail.com**  
 
 </div>
 
 
 <h3 align="center">More in depth:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/https://linkedin.com/in/joancarles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/joancarles" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/joancarles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/joancarles" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
